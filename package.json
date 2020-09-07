@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "desafio babel webpack",
   "main": "webpack.config.js",
-"scripts": {
-"build": "webpack --mode production"
-},
+  "scripts": {
+    "build": "webpack --mode production"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/camicordova/babel_webpack.git"
